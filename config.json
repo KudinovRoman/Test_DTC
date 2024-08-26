@@ -1,0 +1,11 @@
+{
+  "url": "https://mail.ru",
+  "login": "your_login@mail.ru",
+  "password": "your_password",
+  "subject": "Test Subject",
+  "body": "This is a test email.",
+  "recipients": ["recipient1@example.com", "recipient2@example.com"],
+  "attachment_path": "/path/to/attachment/file.txt"
+}
+
+  
