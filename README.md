@@ -1,2 +1,2 @@
 # Test_DCT
-Тествое КЦТ
+autotest for checking the sending of emails
